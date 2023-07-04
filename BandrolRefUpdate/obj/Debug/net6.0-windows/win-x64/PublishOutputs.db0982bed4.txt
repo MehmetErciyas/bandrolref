@@ -1,0 +1,3 @@
+C:\Users\mehmet.erciyas\source\repos\BandrolRefUpdate\BandrolRefUpdate\bin\Debug\net6.0-windows\win-x64\publish\BandrolRefUpdate.pdb
+C:\Users\mehmet.erciyas\source\repos\BandrolRefUpdate\BandrolRefUpdate\bin\Debug\net6.0-windows\win-x64\publish\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mehmet.erciyas\source\repos\BandrolRefUpdate\BandrolRefUpdate\bin\Debug\net6.0-windows\win-x64\publish\BandrolRefUpdate.exe
